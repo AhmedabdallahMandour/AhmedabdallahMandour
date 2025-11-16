@@ -18,4 +18,4 @@ I’m a software engineer passionate about real-time platforms, computer vision,
 
 [![](https://visitcount.itsvg.in/api?id=AhmedabdallahMandour&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
