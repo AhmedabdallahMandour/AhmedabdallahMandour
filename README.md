@@ -1,21 +1,73 @@
-# 💫 About Me:
-I’m a software engineer passionate about real-time platforms, computer vision, and AI integration.  <br>Over the past years, I’ve been building a unique hybrid platform that fuses **C++ and Python** with **OpenCV, AI models, and IPC mechanisms** (shared memory, events, queues) to deliver fast and reliable image-processing solutions.<br><br>### 🔧 Core Strengths<br>- **C++ & Python** for high-performance, real-time, and low-latency systems  <br>- **Computer Vision & Image Processing** (OpenCV, camera calibration, custom pipelines)  <br>- **AI/ML Integration** (YOLO, ONNX, SAM) with optimized inference and production deployment  <br>- **System Architecture & IPC** (real-time communication, shared memory, multi-module systems)  <br>- **Multithreading & Concurrency** (performance tuning, scheduling, synchronization)<br><br>### 🌐 Software Engineering & Backend Skills<br>- **Git & GitHub** (clean workflows, branching strategies, CI/CD basics)  <br>- **FastAPI & REST API development** for scalable, production-grade services  <br>- **Database design** (SQLite, PostgreSQL, schema design, migrations, performance)  <br>- **Real-time data pipelines** and backend–frontend API communication<br><br>### 📈 Management, Agile & Leadership<br>- Solid understanding of **Agile, Scrum, and modern team workflows**  <br>- Experience managing tasks, sprints, velocity, prioritization, and backlog refinement  <br>- Completed **Google Project Management Professional Certificate on Coursera**  <br>- Able to bridge between technical execution and project delivery effectively<br><br>---<br><br>I thrive on solving tough technical challenges, connecting embedded systems with modern AI, and building simple, powerful tools that make complex operations effortless for end users.<br>
+# 💫 About Me
+I’m a software engineer passionate about real-time platforms, computer vision, and AI integration.  
+Over the past years, I’ve been building a unique hybrid platform that fuses **C++ and Python** with **OpenCV, AI models, and IPC mechanisms** (shared memory, events, queues) to deliver fast and reliable image-processing solutions.
 
+### 🔧 Core Strengths
+- **C++ & Python** for high-performance, real-time, and low-latency systems  
+- **Computer Vision & Image Processing** (OpenCV, camera calibration, custom pipelines)  
+- **AI/ML Integration** (YOLO, ONNX, SAM) with optimized inference and production deployment  
+- **System Architecture & IPC** (real-time communication, shared memory, multi-module systems)  
+- **Multithreading & Concurrency** (performance tuning, scheduling, synchronization)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login&next=https%253A%252F%252Fwww.facebook.com%252Foidc%252F%253Fapp_id%253D124024574287414%2526redirect_uri%253Dhttps%25253A%25252F%25252Fwww.instagram.com%25252Faccounts%25252Fsignupviafb%25252F%2526response_type%253Dcode%2526scope%253Dopenid%252Bemail%252Bprofile%252Blinking%2526state%253DATloemgzV2VZW2Lr7EacP6uP8OreYHdg6jgTh11LQ9-GkKxUUx6qquZY6maICkzlW6x-uQW6Ed2ORBxDFdL5waVddTWoaRz55GiBMe6LGPmOHuRC7RWEaJ_lTQZ05iVkxj-FMz2phQrhxVlwXy6a8KNjgUF2Q20Gfjp1q8qxlf21wLw8jYKuQyMNaWcU5dMftjsribpGJfNmhJf7gerJO7gMg11ja5o37MIAL5uv4FSNVCrrKz7mdkMErWIsvDqcfckF&from_login_screen=0&checkpoint_src=any) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/A7md_Mandour) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmed-mandour-1a810515a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/A7md_mandour)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.abdallah.mandour@gmail.com) 
+### 🌐 Software Engineering & Backend Skills
+- **Git & GitHub** (branching strategies, clean workflows, CI/CD basics)  
+- **FastAPI & REST API development** for scalable, production-grade services  
+- **Database design** (SQLite, PostgreSQL, schema design, migrations, performance tuning)  
+- **Real-time data pipelines** and backend–frontend API communication
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AhmedabdallahMandour&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AhmedabdallahMandour&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedabdallahMandour&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📈 Management, Agile & Leadership
+- Strong understanding of **Agile, Scrum, and modern team workflows**  
+- Sprint planning, velocity estimation, backlog refinement, and delivery tracking  
+- Completed **Google Project Management Professional Certificate – Coursera**  
+- Able to bridge between technical execution and project delivery effectively  
 
-### 🔝 Top Contributed Repo
+---
+
+I thrive on solving tough technical challenges, connecting embedded systems with modern AI, and building simple, powerful tools that make complex operations effortless for end users.
+
+---
+
+# 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/A7md_Mandour)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mandour-1a810515a/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/A7md_mandour)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.abdallah.mandour@gmail.com)
+
+---
+
+# 💻 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=green)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=AhmedabdallahMandour&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=AhmedabdallahMandour&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedabdallahMandour&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedabdallahMandour&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
 
 [![](https://visitcount.itsvg.in/api?id=AhmedabdallahMandour&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
